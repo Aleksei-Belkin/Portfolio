@@ -52,7 +52,7 @@
 4. Спрогнозировать параметры для выхода маржинальности на уровень 25%
 
 
-> ***[Проект 2](https://docs.google.com/spreadsheets/d/1h1BU9OvcQSied2DahWJB07wujnBH6scQ/edit?usp=drive_link&ouid=107164017181156575573&rtpof=true&sd=true "Калькулятор юнит-экономики онлайн-школы")***.
+> ***[Проект 2](https://docs.google.com/spreadsheets/d/1h1BU9OvcQSied2DahWJB07wujnBH6scQ/edit?usp=drive_link&ouid=107164017181156575573&rtpof=true&sd=true "Калькулятор юнит-экономики онлайн-кинотеатра")***.
 
 
 
@@ -76,9 +76,8 @@
 10. Построил линейную диаграмму на основе запроса.
 
 
-> <a href="https://github.com/Skyproportfolio/data-analytics-5month/blob/main/Проект%205.xlsx">Ссылка на проект</a>
+> ***[Проект 3](https://github.com/Aleksei-Belkin/Portfolio/tree/4e806476876a2ed9a24742945f7851d04ade66b5/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%203
+ "Моделирование изменения балансов студентов")***.
 
 
-email.com
-- LinkedIn: https://www.linkedin.com/in/username/
-- Личный сайт: https://www.username.com
+email: Aleksei.V.Belkin@yandex.ru
